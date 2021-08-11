@@ -1,4 +1,4 @@
-===github-backup
+# github-backup
 
 ```bash
 pip install github-backup
